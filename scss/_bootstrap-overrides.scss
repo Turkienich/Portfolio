@@ -1,5 +1,5 @@
 .bg-primary {
-  background-color: $primary !important;
+  background-color: aquamarine !important;
 }
 
 .text-primary {
@@ -8,6 +8,7 @@
 
 a {
   color: $primary;
+
   &:hover,
   &:focus,
   &:active {
